@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textStyle" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:padding">@dimen/padding</item>
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="decorativeTextStyle" parent="textStyle">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

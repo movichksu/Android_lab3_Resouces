@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторная: Ресурсы</string>
+    <string name="name">Пахомович Ксения Сергеевна</string>
+    <string name="speciality">Программное и математическое обечпечение мобильных устройств</string>
+    <string name="group">9-я группа</string>
+    <string name="landscape_orientation">Горизонтальная ориентация</string>
+    <string name="portrait_orientation">Портретная ориентация</string>
+    <string name="unknown_orientation">Ориентация экрана неизвестна</string>
+</resources>

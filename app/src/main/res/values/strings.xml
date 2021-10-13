@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResoucesLab</string>
+    <string name="name">Pahomovich Kseniya</string>
+    <string name="speciality">Mobile development</string>
+    <string name="group">9-th group</string>
+    <string name="landscape_orientation">Landscape orientation</string>
+    <string name="portrait_orientation">Portrait orientation</string>
+    <string name="unknown_orientation">Unknown orientation</string>
+</resources>
